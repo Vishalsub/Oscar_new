@@ -1,0 +1,8 @@
+controller_joint_names: ['', 'right_wheel_link_joint', 
+'left_wheel_link_joint', 'Big_triangle_link_joint', 
+'Link_1_joint', 'Non_acut_triangle_1_joint', 'link_4_joint',
+ 'rectangle_link_1_joint', 'link_pair_2_joint','link_pair_1_joint','link_pair_3_joint', 'Big_triangle_link_2_joint',
+  'Link_2_joint', 'Non_acut_triangle_2_joint', 'Link_5_joint', 'Link_2_1_joint', 
+  'Non_acut_triangle_3_joint', 'Link_6_joint', 'Big_triangle_link_3_joint', 
+  'Link_3_joint', 'Non_acut_triangle_4_joint', 'Link_7_joint', 
+  'rectangle_link_2_joint', ]
